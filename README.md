@@ -1,5 +1,7 @@
 ### Projeto Canjiquinha
 
+<img align="right" alt="Gabril-BAT" height="250" width="250" src="https://cdn-icons-png.flaticon.com/512/2979/2979329.png">
+
 ## Regulagem automática de ingredientes:
 
 - Desenvolvemos um sistema inteligente que ajusta automaticamente a quantidade de ingredientes necessários na receita de canjica.
